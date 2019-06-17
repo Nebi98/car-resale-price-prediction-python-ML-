@@ -1,6 +1,6 @@
 from tkinter import *
 import datetime
-import koshish as mdl
+import main as mdl
 
 
 class DBike(Exception) :
